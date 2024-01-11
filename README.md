@@ -13,6 +13,4 @@ Hello World for Kotlin
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Kotlin Hello World](https://www.programiz.com/kotlin-programming/hello-world)
