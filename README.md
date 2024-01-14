@@ -2,7 +2,7 @@
 
 Hello World for Kotlin
 
-[Software Demo Video][(http://youtube.link.goes.here](https://youtu.be/hNIFKPVmSIE)
+[Software Demo Video] (https://youtu.be/hNIFKPVmSIE)
 
 # Development Environment
 
