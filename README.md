@@ -1,8 +1,8 @@
 # Overview
 
-Hello World for Kotlin
+Task Manager Application in Kotlin
 
-[Software Demo Video] (https://youtu.be/hNIFKPVmSIE)
+[Software Demo Video] (YT link)
 
 # Development Environment
 
@@ -12,4 +12,4 @@ Hello World for Kotlin
 
 # Useful Websites
 
-* [Kotlin Hello World](https://www.programiz.com/kotlin-programming/hello-world)
+* 
