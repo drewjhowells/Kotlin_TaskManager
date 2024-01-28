@@ -4,7 +4,6 @@ import java.io.FileWriter
 import java.io.FileReader
 import  java.io.BufferedReader
 import kotlin.collections.List
-import kotlin.collections.List as List1
 
 //Define Task data type
 data class Task(val name: String, val id: Int) {
